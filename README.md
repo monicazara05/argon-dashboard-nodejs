@@ -342,7 +342,7 @@ We use GitHub Issues as the official bug tracker for the Material Kit. Here are 
 
 ## Useful Links
 
-- [Tutorials](https://www.youtube.com/channel/UCVyTG4sCw-rOvB9oHkzZD1w)
+- [Tutorial](https://blog.creative-tim.com/tutorial/setup-development-environment-using-nodejs-docker%e2%80%8a/)
 - [Affiliate Program](https://www.creative-tim.com/affiliates/new) (earn money)
 - [Blog Creative Tim](http://blog.creative-tim.com/)
 - [Free Products](https://www.creative-tim.com/bootstrap-themes/free) from Creative Tim
